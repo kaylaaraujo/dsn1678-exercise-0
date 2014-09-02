@@ -22,3 +22,8 @@ h2 {
 	color: #A41742;
 }
 
+blockquote {
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	padding: 1rem 2%;
+}
+
