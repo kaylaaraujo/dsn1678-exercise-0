@@ -1,6 +1,10 @@
 @charset "UTF-8";
 /* CSS Document */
 
+html {
+	width: 35%;
+}
+
 img {
 	width: 25%;
 }
