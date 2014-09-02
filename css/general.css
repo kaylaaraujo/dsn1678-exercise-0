@@ -39,6 +39,9 @@ cite {
 
 ol, dl, dt, li {
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+	
+dt, li {
 	margin-bottom: 1rem;
 
 }
