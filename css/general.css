@@ -24,7 +24,7 @@ h2 {
 }
 
 blockquote {
-	padding: 0.5rem 2%;
+	padding: 0.25rem 2%;
 }
 
 blockquote p {
@@ -34,7 +34,6 @@ blockquote p {
 
 cite {
 	float: right;
-	padding-bottom: 1rem;
 }
 
 ol, dl, dt, li {
