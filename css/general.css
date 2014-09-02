@@ -2,6 +2,16 @@
 /* CSS Document */
 
 img {
-	width: 200px;
+	width: 400px;
 	padding: 2%;
+}
+
+p {
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size:14px;
+	color: #A41742;
 }
