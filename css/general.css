@@ -37,7 +37,9 @@ cite {
 	padding-bottom: 1rem;
 }
 
-ol, dl {
+ol, dl, dt, li {
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	line-height: 1.75rem;
+
 }
 
