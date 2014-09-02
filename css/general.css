@@ -23,7 +23,11 @@ h2 {
 }
 
 blockquote {
-	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
 	padding: 0.5rem 2%;
+}
+
+blockquote p {
+		font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+
 }
 
